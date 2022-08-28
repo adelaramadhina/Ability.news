@@ -1,0 +1,22 @@
+{
+  "name": "ability-news",
+  "version": "1.0.0",
+  "description": "Ability.news is a website that provides information and news solely surrounding disability in Australia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelaramadhina/Ability.news-.git"
+  },
+  "keywords": [
+    "disability"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adelaramadhina/Ability.news-/issues"
+  },
+  "homepage": "https://github.com/adelaramadhina/Ability.news-#readme"
+}
