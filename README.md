@@ -9,3 +9,5 @@ Alison Fisher - [@Fishy3999](https://github/com/Fishy3999)
 Amy McAuliffe - [@Hydran0361](https://github.com/Hydran0361)
 
 Meklit Lire - [@IkimRing](https://github.com/IkimRing)
+
+Grace vanG - [@UnknownChilli](https://github.com/UnknownChilli)
