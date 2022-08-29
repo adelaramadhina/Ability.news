@@ -10,4 +10,4 @@ Amy McAuliffe - [@Hydran0361](https://github.com/Hydran0361)
 
 Meklit Lire - [@IkimRing](https://github.com/IkimRing)
 
-Grace van Gageldonk - [@UnknownChilli](https://github.com/UnknownChilli)
+Grace vanG - [@UnknownChilli](https://github.com/UnknownChilli)
